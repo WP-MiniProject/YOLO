@@ -17,9 +17,9 @@ body{
     position: absolute;
     top:10px;
     right:3vw;
-    height: 25px;
-    
+    height: 25px; 
 }
+
 .navlinks{
     padding: 3vw;
     text-align: right;
@@ -220,7 +220,10 @@ ul.loca li{
     margin: 0.3vw;
 }
 
-
+@media screen and (min-width:576px) {
+    .burger img{display: none;}
+    
+}
 @media screen and (max-width: 1313px) and (min-width: 846px) {
     .centerdiv h1{font-size: 70px;}
     .navlinks img{height: 80px;}
@@ -250,6 +253,9 @@ ul.loca li{
         .sechalf{position: absolute;left: 55vw;top: 880px;}
     
 }
+
+
+
 
 
 

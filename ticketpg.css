@@ -1,0 +1,61 @@
+
+* {
+    box-sizing: border-box;
+}
+body{
+    background-image: url('./images/banner2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.myForm{
+    background-color: lightgrey;  
+    width:50%;
+    position: absolute;
+    top: 160px;
+    left:25vw;
+    padding: 40px;
+}
+ .page{
+    position:absolute;
+    left: 28vw;
+ } 
+ .page h3{
+     position: absolute;
+     left:10vw;
+     top:48px;
+ }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
